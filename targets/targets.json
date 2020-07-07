@@ -6561,7 +6561,7 @@
             "CY8C624ABZI_D44",
             "CYBSP_WIFI_CAPABLE"
         ],
-        "device_name": "CY8C624ABZI-D44",
+        "device_name": "CY8C624ABZI-S2D44",
         "mbed_ram_start": "0x08002000",
         "mbed_ram_size": "0x000FD800",
         "detect_code": [
@@ -6605,7 +6605,7 @@
             "CY8C624ABZI_D44",
             "CYBSP_WIFI_CAPABLE"
         ],
-        "device_name": "CY8C624ABZI-D44",
+        "device_name": "CY8C624ABZI-S2D44",
         "mbed_ram_start": "0x08002000",
         "mbed_ram_size": "0x000FD800",
         "detect_code": [

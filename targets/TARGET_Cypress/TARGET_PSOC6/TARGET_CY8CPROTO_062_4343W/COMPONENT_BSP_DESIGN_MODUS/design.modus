@@ -2,7 +2,7 @@
 <Design version="12" device_library_hint_path="../../psoc6pdl/devicesupport.xml" xmlns="http://cypress.com/xsd/cydesignfile_v3">
     <ToolInfo version="1.0.0"/>
     <Devices>
-        <Device mpn="CY8C624ABZI-D44">
+        <Device mpn="CY8C624ABZI-S2D44">
             <BlockConfig>
                 <Block location="cpuss[0].dap[0]">
                     <Personality template="mxs40dap" version="1.0">

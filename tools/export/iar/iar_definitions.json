@@ -334,8 +334,8 @@
         "FPU2": 6,
         "GFPUCoreSlave2": 39
     },
-    "CY8C624ABZI-D44": {
-        "OGChipSelectEditMenu": "CY8C624ABZI-D44M4\tCypress CY8C624ABZI-D44M4",
+    "CY8C624ABZI-S2D44": {
+        "OGChipSelectEditMenu": "CY8C624ABZI-S2D44M4\tCypress CY8C624ABZI-S2D44M4",
         "CoreVariant": 39,
         "GFPUCoreSlave": 39,
         "GBECoreSlave": 39,
